@@ -1,0 +1,25 @@
+/* Common page wrapper */
+.page {
+  min-height: 100vh;
+  padding: 60px 0;
+}
+
+/* About page */
+.page-about {
+  background-color: #fdfdfc; /* warm off-white */
+}
+
+/* Collections page */
+.page-collections {
+  background-color: #f4f4f4; /* light grey */
+}
+
+/* Projects page */
+.page-projects {
+  background-color: #ffffff; /* clean white */
+}
+
+/* Contact page */
+.page-contact {
+  background-color: #f6f6f6; /* soft neutral */
+}
